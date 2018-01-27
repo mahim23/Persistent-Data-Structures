@@ -1,4 +1,4 @@
-# PythonMiniProject
+# Data Structures mini Projet
 ## About
 * People use GitHub on a daily basis, a place to store code with all the revision history they need.
 * Git specifically works by taking snapshots of files, if files remains unchanged in a particular version, it simply links to the 
